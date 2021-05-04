@@ -1,5 +1,5 @@
 # Portfolio
-A brief portfolio of some of Tolulade Ademisoye's project portfolio and expertise. Some projects and repositories are private. 
+A brief portfolio of some of **Tolulade Ademisoye**'s project portfolio and expertise. Some projects and repositories are private. 
 
 ## Reinforcement Learning of an Atari Game - Classified -2021
 Using OpenAI Gym environment I developed a project in Imitation Learning & Reinforcement Learning. I shared a bit of my experience on medium here https://tolulade-ademisoye.medium.com/converting-your-deep-q-learning-agent-into-json-dffdbb7fe4cc
