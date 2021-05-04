@@ -27,5 +27,8 @@ Gas-set Engines
 Led a Reispar community project combining software Engineering, Power BI, API services and Analytics across team members.
 https://reispartechnologies.com.ng/covid19 
 
+## Deep Learning & Data Analysis - Team Reispar Opensource Project
+https://github.com/Reispar/TeamReispar-C3DataHackathonSolution Project involved key technologies such as;_ Python, AWS, Heroku, Google Data Studio, Javascript_ among others.
+
 
 
