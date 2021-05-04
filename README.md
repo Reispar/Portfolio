@@ -23,5 +23,9 @@ Gas-set Engines
 -----------
 ![gas set engines](https://user-images.githubusercontent.com/22460844/116995406-f0060200-acd1-11eb-82c0-34f44b26bc16.jpg)
 
-![1200kw-NG-737x423](https://user-images.githubusercontent.com/22460844/116994907-43c41b80-acd1-11eb-967b-f91d4628a1f3.jpg)
+## Data Visualisation & Analytics with Python & Power BI - Reispar Opensource
+Led a Reispar community project combining software Engineering, Power BI, API services and Analytics across team members.
+https://reispartechnologies.com.ng/covid19 
+
+
 
