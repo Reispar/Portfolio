@@ -30,5 +30,12 @@ https://reispartechnologies.com.ng/covid19
 ## Deep Learning & Data Analysis - Team Reispar Opensource Project
 https://github.com/Reispar/TeamReispar-C3DataHackathonSolution Project involved key technologies such as;_ Python, AWS, Heroku, Google Data Studio, Javascript_ among others.
 
+## Machine Learning & Data Analysis Reispar Academy Training
+I lead a team of Data & AI experts from a unit of Reispar Technologies involved in developing core Machine Learning, Data Science, Data Engineering and Business Intelligence 
+skills among several clients.
+
+https://youtu.be/gj5jdYB5dyk 
+
+
 
 
