@@ -21,6 +21,8 @@ Identify Locations that appear above four (4) times
 
 Perform other queries.
 
+PostgreSQL Scripts https://github.com/Reispar/Portfolio/blob/main/PosgreSQL_Products_mailingList.ipynb
+
 ## Project Mechanical Engineer- 6MW Gas Engine Power-plant- 2017
 A member of the design, construction & installation team executed a $6, 000, 000 Gas turbine power-plant project **(design & analysis)** in Nigeria
 
