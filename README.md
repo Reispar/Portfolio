@@ -6,6 +6,9 @@ Using OpenAI Gym environment I developed a project in Imitation Learning & Reinf
 
 I used Deep Q Networks model algorithm
 
+## Convert a Deep Reinforcment Model into JSON
+Code- 
+
 ## Programming & Development of an Autonomous Robotics Vehicle
 
 I worked on a code for self driving car along side my prject team members using Python programming in 2018. 
