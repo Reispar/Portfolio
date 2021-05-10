@@ -7,7 +7,7 @@ Using OpenAI Gym environment I developed a project in Imitation Learning & Reinf
 I used Deep Q Networks model algorithm
 
 ## Convert a Deep Reinforcment Model into JSON
-Code- 
+Code- https://github.com/Reispar/Portfolio/blob/main/Converting_a_Deep%20Learning%20Reinforcement_Model_to_JSON.ipynb
 
 ## Programming & Development of an Autonomous Robotics Vehicle
 
