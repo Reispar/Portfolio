@@ -16,7 +16,9 @@ repo --- https://github.com/Reispar/autonomous-robot-with-sensors-code
 Explore two SQL Tables (mailing_lists & products1). 
 
 Discover the least and highest manufacturing price.
+
 Identify Locations that appear above four (4) times
+
 Perform other queries.
 
 ## Project Mechanical Engineer- 6MW Gas Engine Power-plant- 2017
