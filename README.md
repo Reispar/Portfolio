@@ -8,9 +8,16 @@ I used Deep Q Networks model algorithm
 
 ## Programming & Development of an Autonomous Robotics Vehicle
 
-I developed a code for self driving car along side my prject team members using Python programming in 2018. 
+I worked on a code for self driving car along side my prject team members using Python programming in 2018. 
+ 
+repo --- https://github.com/Reispar/autonomous-robot-with-sensors-code 
 
-repo --- https://github.com/Reispar/autonomous-robot-with-sensors-code
+## Connecting Your PostgreSQL to a SQL Table and Performing Some Queries
+Explore two SQL Tables (mailing_lists & products1). 
+
+Discover the least and highest manufacturing price.
+Identify Locations that appear above four (4) times
+Perform other queries.
 
 ## Project Mechanical Engineer- 6MW Gas Engine Power-plant- 2017
 A member of the design, construction & installation team executed a $6, 000, 000 Gas turbine power-plant project **(design & analysis)** in Nigeria
