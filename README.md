@@ -53,4 +53,6 @@ https://youtu.be/gj5jdYB5dyk
 ## Artificial Neural Network with Fraud/Anaomly detection
 https://github.com/Reispar/Fraud-detection-finance-Neural-Network
 
+## Hate Speech Text Classification (NLP) with Artificial Neural Network
+https://github.com/Reispar/Hate-Speech-Text-Classification-NLP-Neural-Network
 
