@@ -54,5 +54,8 @@ https://youtu.be/gj5jdYB5dyk
 https://github.com/Reispar/Fraud-detection-finance-Neural-Network
 
 ## Hate Speech Text Classification (NLP) with Artificial Neural Network
-https://github.com/Reispar/Hate-Speech-Text-Classification-NLP-Neural-Network
+https://github.com/Reispar/Hate-Speech-Text-Classification-NLP-Neural-Network 
+
+## Document Clustering System with Kmeans - NLP Project
+https://github.com/Reispar/Developing_Document_Clustering_System
 
