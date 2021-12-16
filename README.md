@@ -10,7 +10,7 @@ https://github.com/Reispar/Hate-Speech-Text-Classification-NLP-Neural-Network
 ## Document Clustering System with Kmeans - NLP Project
 https://github.com/Reispar/Developing_Document_Clustering_System
 
-....
+-----
 
 ## Reinforcement Learning of an Atari Game - Classified -2021
 Using OpenAI Gym environment I developed a project in Imitation Learning & Reinforcement Learning. I shared a bit of my experience on medium here https://tolulade-ademisoye.medium.com/converting-your-deep-q-learning-agent-into-json-dffdbb7fe4cc
