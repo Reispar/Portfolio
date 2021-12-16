@@ -1,6 +1,17 @@
 # Portfolio
 A brief portfolio of some of **Tolulade Ademisoye**'s project portfolio and expertise. Some projects and repositories are private. 
 
+## Artificial Neural Network with Fraud/Anaomly detection
+https://github.com/Reispar/Fraud-detection-finance-Neural-Network
+
+## Hate Speech Text Classification (NLP) with Artificial Neural Network
+https://github.com/Reispar/Hate-Speech-Text-Classification-NLP-Neural-Network 
+
+## Document Clustering System with Kmeans - NLP Project
+https://github.com/Reispar/Developing_Document_Clustering_System
+
+....
+
 ## Reinforcement Learning of an Atari Game - Classified -2021
 Using OpenAI Gym environment I developed a project in Imitation Learning & Reinforcement Learning. I shared a bit of my experience on medium here https://tolulade-ademisoye.medium.com/converting-your-deep-q-learning-agent-into-json-dffdbb7fe4cc
 
@@ -49,13 +60,3 @@ I lead a team of Data & AI experts from a unit of Reispar Technologies involved 
 skills among several clients.
 
 https://youtu.be/gj5jdYB5dyk 
-
-## Artificial Neural Network with Fraud/Anaomly detection
-https://github.com/Reispar/Fraud-detection-finance-Neural-Network
-
-## Hate Speech Text Classification (NLP) with Artificial Neural Network
-https://github.com/Reispar/Hate-Speech-Text-Classification-NLP-Neural-Network 
-
-## Document Clustering System with Kmeans - NLP Project
-https://github.com/Reispar/Developing_Document_Clustering_System
-
